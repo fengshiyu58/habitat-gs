@@ -196,3 +196,6 @@ pre-commit-deps.txt
 
 # Local contributor guide draft
 /AGENTS.md
+
+# hydra run outputs
+outputs/
